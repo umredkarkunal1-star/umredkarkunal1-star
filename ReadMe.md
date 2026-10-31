@@ -1,23 +1,15 @@
 # 💫 About Me:
-👨‍💻 **Tech Enthusiast | Developer | Problem Solver**
+👨‍💻 **BCA Student | Developer | Tech Enthusiast**
 
-I'm a BCA student passionate about programming, software development, and emerging technologies. I enjoy experimenting with code, exploring new tools, building applications, and turning ideas into practical solutions.
+Passionate about coding, building applications, and exploring emerging technologies. Interested in software development, data analytics, cybersecurity, and AI.
 
-🚀 My technical interests include **Python, C++, JavaScript, React.js, Web Development, and Data Analytics.** I'm also exploring SQL, Power BI, databases, and data-driven problem-solving.
+🚀 Working with Python, C++, JavaScript, React.js, SQL, and modern development tools.
 
-🤖 Fascinated by **Artificial Intelligence, Generative AI, Machine Learning, automation, and API integrations.** I enjoy discovering how modern technologies work and how they can be used to build smarter applications.
+🤖 Exploring Generative AI, automation, APIs, and data-driven solutions.
 
-🔐 I also explore **Cybersecurity, Network Security, Cryptography, and Ethical Hacking**, developing a deeper understanding of digital systems and security.
+🔐 Curious about cybersecurity, networking, and ethical hacking.
 
-**Currently Focused On:**
-- 💻 Software & Web Development
-- 📊 Data Analytics & Visualization
-- 🤖 AI & Emerging Technologies
-- 🔐 Cybersecurity & Networking
-
-⚡ Always curious, constantly experimenting, and continuously evolving in the world of technology.
-
-**Code. Create. Innovate. Repeat.** 🚀
+⚡ **Learn. Code. Build. Innovate.**
 
 
 ## 🌐 Socials:
